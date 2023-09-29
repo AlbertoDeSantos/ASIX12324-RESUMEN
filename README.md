@@ -41,4 +41,5 @@ sdfsdljkhf lksdjh lkjdhf lsdjhf lsdkjhf lskdjh flskjdh flskdjhf lsjkd fhlskdjhf 
 ```
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
+![Esto es una imagen de un planeta](https://github.com/AlbertoDeSantos/ASIX12324-RESUMEN/blob/main/planeta.jpg "Titulo opcional de la imagen")
 
