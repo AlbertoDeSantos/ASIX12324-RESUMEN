@@ -43,3 +43,9 @@ sdfsdljkhf lksdjh lkjdhf lsdjhf lsdkjhf lskdjh flskjdh flskdjhf lsjkd fhlskdjhf 
 
 ![Esto es una imagen de un planeta](https://github.com/AlbertoDeSantos/ASIX12324-RESUMEN/blob/main/planeta.jpg "Titulo opcional de la imagen")
 
+|Primera Col.|Segunda Col.|3 Col|
+|---------------|:------------:|---------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|134€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
