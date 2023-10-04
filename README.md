@@ -50,9 +50,9 @@ sdfsdljkhf lksdjh lkjdhf lsdjhf lsdkjhf lskdjh flskjdh flskdjhf lsjkd fhlskdjhf 
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
 
--[ ] Opción A
+[ ] Opción A
 
--[X] Opción B
+[X] Opción B
 
--[ ] Opción C
+[ ] Opción C
 
