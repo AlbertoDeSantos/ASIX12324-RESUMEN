@@ -51,6 +51,8 @@ sdfsdljkhf lksdjh lkjdhf lsdjhf lsdkjhf lskdjh flskjdh flskdjhf lsjkd fhlskdjhf 
 |Clase|ASIX1|M4|
 
 -[ ] Opción A
+
 -[X] Opción B
+
 -[ ] Opción C
 
